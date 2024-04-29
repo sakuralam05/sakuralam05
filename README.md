@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sakuralam05
 - 👀 I’m interested in Reading,Baking ,Watching  anime 
-- 🌱 I’m currently taking a gap year and learning coding languages 
-- 💞️ 
+- 🌱 I’m currently studying at SUTD
 - 📫 
 
 <!---

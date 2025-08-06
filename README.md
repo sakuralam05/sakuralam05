@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @sakuralam05
-- 👀 I’m interested in Reading,Baking ,Watching  anime 
-- 🌱 I’m currently studying at SUTD
-- 📫 
+# 🌸 Welcome to @sakuralam05's GitHub
 
-<!---
-sakuralam05/sakuralam05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hi there! I’m Sakura, currently studying at **Singapore University of Technology and Design (SUTD)**.  
+
+
+## 📫 Reach me at: sakuralam03@gmail.com
+## 🌐Linkdin: www.linkedin.com/in/sakuralam
+

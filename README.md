@@ -4,5 +4,5 @@
 
 
 ### 📫 Reach me at: sakuralam03@gmail.com
-### 🌐Linkdin: www.linkedin.com/in/sakuralam
+### 🌐Linkedin: www.linkedin.com/in/sakuralam
 
